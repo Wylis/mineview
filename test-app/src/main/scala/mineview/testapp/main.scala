@@ -1,7 +1,9 @@
 package mineview.testapp
 
-object main {
-  def main(args: Array[String]): Unit = {
+import mineview.core._
 
+object Main extends App {
+  override def main(args: Array[String]): Unit = {
+    
   }
 }

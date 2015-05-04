@@ -1,0 +1,17 @@
+#IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#gradle
+.gradle/
+
+#project files
+build/
+logs/
+mods/
+resourcepacks/
+saves/
+usernamecache.json
+target/
